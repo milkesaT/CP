@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/milkesaT/CP/tree/master/0283-move-zeroes) |
 | [0881-boats-to-save-people](https://github.com/milkesaT/CP/tree/master/0881-boats-to-save-people) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/milkesaT/CP/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1480-running-sum-of-1d-array](https://github.com/milkesaT/CP/tree/master/1480-running-sum-of-1d-array) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/milkesaT/CP/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 ## Hash Table
 |  |
@@ -45,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/milkesaT/CP/tree/master/0189-rotate-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/milkesaT/CP/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
