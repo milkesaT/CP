@@ -1,0 +1,17 @@
+1class Solution:
+2    def minOperations(self, nums: List[int]) -> int:
+3        s=0
+4        n= len(nums)
+5        for i in range(n-2):
+6            if(nums[i]==0):
+7                for j in range(i,i+3):
+8                    nums[j]^=1
+9                s+=1
+10        if(len(set(nums))==1):
+11            return s
+12        return -1
+13
+14                
+15
+16
+17
