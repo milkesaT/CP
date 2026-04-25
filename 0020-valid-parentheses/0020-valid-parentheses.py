@@ -12,4 +12,8 @@ class Solution:
                 else:
                     return False
 
-        return not stack
+       # return not stack
+        if(len(stack)==0):
+            return True
+        else:
+            return False
