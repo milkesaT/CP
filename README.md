@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/milkesaT/CP/tree/master/0020-valid-parentheses) |
 | [2381-shifting-letters-ii](https://github.com/milkesaT/CP/tree/master/2381-shifting-letters-ii) |
 ## Sliding Window
 |  |
@@ -78,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/milkesaT/CP/tree/master/0203-remove-linked-list-elements) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/milkesaT/CP/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
