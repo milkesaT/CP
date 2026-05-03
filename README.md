@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/milkesaT/CP/tree/master/0881-boats-to-save-people) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/milkesaT/CP/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1480-running-sum-of-1d-array](https://github.com/milkesaT/CP/tree/master/1480-running-sum-of-1d-array) |
+| [1929-concatenation-of-array](https://github.com/milkesaT/CP/tree/master/1929-concatenation-of-array) |
 | [2381-shifting-letters-ii](https://github.com/milkesaT/CP/tree/master/2381-shifting-letters-ii) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/milkesaT/CP/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/milkesaT/CP/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -97,5 +98,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1929-concatenation-of-array](https://github.com/milkesaT/CP/tree/master/1929-concatenation-of-array) |
 | [2390-removing-stars-from-a-string](https://github.com/milkesaT/CP/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
