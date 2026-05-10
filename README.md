@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/milkesaT/CP/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/milkesaT/CP/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/milkesaT/CP/tree/master/0724-find-pivot-index) |
+| [0832-flipping-an-image](https://github.com/milkesaT/CP/tree/master/0832-flipping-an-image) |
 | [0881-boats-to-save-people](https://github.com/milkesaT/CP/tree/master/0881-boats-to-save-people) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/milkesaT/CP/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1480-running-sum-of-1d-array](https://github.com/milkesaT/CP/tree/master/1480-running-sum-of-1d-array) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/milkesaT/CP/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/milkesaT/CP/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/milkesaT/CP/tree/master/0283-move-zeroes) |
+| [0832-flipping-an-image](https://github.com/milkesaT/CP/tree/master/0832-flipping-an-image) |
 | [0881-boats-to-save-people](https://github.com/milkesaT/CP/tree/master/0881-boats-to-save-people) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/milkesaT/CP/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 ## Greedy
@@ -103,6 +105,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/milkesaT/CP/tree/master/0832-flipping-an-image) |
 | [1929-concatenation-of-array](https://github.com/milkesaT/CP/tree/master/1929-concatenation-of-array) |
 | [2390-removing-stars-from-a-string](https://github.com/milkesaT/CP/tree/master/2390-removing-stars-from-a-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0832-flipping-an-image](https://github.com/milkesaT/CP/tree/master/0832-flipping-an-image) |
+## Matrix
+|  |
+| ------- |
+| [0832-flipping-an-image](https://github.com/milkesaT/CP/tree/master/0832-flipping-an-image) |
 <!---LeetCode Topics End-->
