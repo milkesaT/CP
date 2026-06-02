@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/milkesaT/CP/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/milkesaT/CP/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3467-transform-array-by-parity](https://github.com/milkesaT/CP/tree/master/3467-transform-array-by-parity) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/milkesaT/CP/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3925-concatenate-array-with-reverse](https://github.com/milkesaT/CP/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
 |  |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/milkesaT/CP/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/milkesaT/CP/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [3467-transform-array-by-parity](https://github.com/milkesaT/CP/tree/master/3467-transform-array-by-parity) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/milkesaT/CP/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Counting Sort
 |  |
 | ------- |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/milkesaT/CP/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/milkesaT/CP/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2540-minimum-common-value](https://github.com/milkesaT/CP/tree/master/2540-minimum-common-value) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/milkesaT/CP/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Greedy
 |  |
 | ------- |
@@ -82,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/milkesaT/CP/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2126-destroying-asteroids](https://github.com/milkesaT/CP/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/milkesaT/CP/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/milkesaT/CP/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Math
 |  |
 | ------- |
@@ -156,4 +160,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/milkesaT/CP/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [2540-minimum-common-value](https://github.com/milkesaT/CP/tree/master/2540-minimum-common-value) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/milkesaT/CP/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 <!---LeetCode Topics End-->
