@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/milkesaT/CP/tree/master/0832-flipping-an-image) |
 | [0881-boats-to-save-people](https://github.com/milkesaT/CP/tree/master/0881-boats-to-save-people) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/milkesaT/CP/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2396-strictly-palindromic-number](https://github.com/milkesaT/CP/tree/master/2396-strictly-palindromic-number) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/milkesaT/CP/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2540-minimum-common-value](https://github.com/milkesaT/CP/tree/master/2540-minimum-common-value) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/milkesaT/CP/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/milkesaT/CP/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/milkesaT/CP/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/milkesaT/CP/tree/master/0189-rotate-array) |
+| [2396-strictly-palindromic-number](https://github.com/milkesaT/CP/tree/master/2396-strictly-palindromic-number) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/milkesaT/CP/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/milkesaT/CP/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/milkesaT/CP/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -175,4 +177,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/milkesaT/CP/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/milkesaT/CP/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
