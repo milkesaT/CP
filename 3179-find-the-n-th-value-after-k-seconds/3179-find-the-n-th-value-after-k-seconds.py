@@ -1,9 +1,6 @@
 class Solution:
     def valueAfterKSeconds(self, n: int, k: int) -> int:
         nar=[1]*n
-        
-       
-       
         for l in range(k):
             for i in range(1,n):
                 MOD = 10**9 + 7
