@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/milkesaT/CP/tree/master/0219-contains-duplicate-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/milkesaT/CP/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/milkesaT/CP/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/milkesaT/CP/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/milkesaT/CP/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/milkesaT/CP/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2540-minimum-common-value](https://github.com/milkesaT/CP/tree/master/2540-minimum-common-value) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/milkesaT/CP/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/milkesaT/CP/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3467-transform-array-by-parity](https://github.com/milkesaT/CP/tree/master/3467-transform-array-by-parity) |
 ## Two Pointers
 |  |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/milkesaT/CP/tree/master/0125-valid-palindrome) |
 | [0520-detect-capital](https://github.com/milkesaT/CP/tree/master/0520-detect-capital) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/milkesaT/CP/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/milkesaT/CP/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2381-shifting-letters-ii](https://github.com/milkesaT/CP/tree/master/2381-shifting-letters-ii) |
 | [2390-removing-stars-from-a-string](https://github.com/milkesaT/CP/tree/master/2390-removing-stars-from-a-string) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/milkesaT/CP/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -140,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/milkesaT/CP/tree/master/0219-contains-duplicate-ii) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/milkesaT/CP/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Linked List
 |  |
 | ------- |
