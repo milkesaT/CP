@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3467-transform-array-by-parity](https://github.com/milkesaT/CP/tree/master/3467-transform-array-by-parity) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/milkesaT/CP/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/milkesaT/CP/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3689-maximum-total-subarray-value-i](https://github.com/milkesaT/CP/tree/master/3689-maximum-total-subarray-value-i) |
 | [3925-concatenate-array-with-reverse](https://github.com/milkesaT/CP/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
 |  |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/milkesaT/CP/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/milkesaT/CP/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/milkesaT/CP/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3689-maximum-total-subarray-value-i](https://github.com/milkesaT/CP/tree/master/3689-maximum-total-subarray-value-i) |
 ## Math
 |  |
 | ------- |
