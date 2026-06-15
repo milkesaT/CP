@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/milkesaT/CP/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/milkesaT/CP/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/milkesaT/CP/tree/master/0303-range-sum-query-immutable) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/milkesaT/CP/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0724-find-pivot-index](https://github.com/milkesaT/CP/tree/master/0724-find-pivot-index) |
 | [0832-flipping-an-image](https://github.com/milkesaT/CP/tree/master/0832-flipping-an-image) |
 | [0881-boats-to-save-people](https://github.com/milkesaT/CP/tree/master/0881-boats-to-save-people) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/milkesaT/CP/tree/master/0013-roman-to-integer) |
 | [0219-contains-duplicate-ii](https://github.com/milkesaT/CP/tree/master/0219-contains-duplicate-ii) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/milkesaT/CP/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/milkesaT/CP/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/milkesaT/CP/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/milkesaT/CP/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/milkesaT/CP/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/milkesaT/CP/tree/master/0215-kth-largest-element-in-an-array) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/milkesaT/CP/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0881-boats-to-save-people](https://github.com/milkesaT/CP/tree/master/0881-boats-to-save-people) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/milkesaT/CP/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/milkesaT/CP/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
