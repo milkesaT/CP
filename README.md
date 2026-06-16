@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2785-sort-vowels-in-a-string](https://github.com/milkesaT/CP/tree/master/2785-sort-vowels-in-a-string) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/milkesaT/CP/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/milkesaT/CP/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3612-process-string-with-special-operations-i](https://github.com/milkesaT/CP/tree/master/3612-process-string-with-special-operations-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/milkesaT/CP/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3838-weighted-word-mapping](https://github.com/milkesaT/CP/tree/master/3838-weighted-word-mapping) |
 ## Sliding Window
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2390-removing-stars-from-a-string](https://github.com/milkesaT/CP/tree/master/2390-removing-stars-from-a-string) |
 | [2553-separate-the-digits-in-an-array](https://github.com/milkesaT/CP/tree/master/2553-separate-the-digits-in-an-array) |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/milkesaT/CP/tree/master/3179-find-the-n-th-value-after-k-seconds) |
+| [3612-process-string-with-special-operations-i](https://github.com/milkesaT/CP/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/milkesaT/CP/tree/master/3838-weighted-word-mapping) |
 | [3925-concatenate-array-with-reverse](https://github.com/milkesaT/CP/tree/master/3925-concatenate-array-with-reverse) |
 ## Bit Manipulation
