@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/milkesaT/CP/tree/master/0011-container-with-most-water) |
+| [0049-group-anagrams](https://github.com/milkesaT/CP/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/milkesaT/CP/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/milkesaT/CP/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/milkesaT/CP/tree/master/0189-rotate-array) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/milkesaT/CP/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/milkesaT/CP/tree/master/0049-group-anagrams) |
 | [0219-contains-duplicate-ii](https://github.com/milkesaT/CP/tree/master/0219-contains-duplicate-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/milkesaT/CP/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/milkesaT/CP/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/milkesaT/CP/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/milkesaT/CP/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/milkesaT/CP/tree/master/0215-kth-largest-element-in-an-array) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/milkesaT/CP/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -144,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/milkesaT/CP/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/milkesaT/CP/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/milkesaT/CP/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/milkesaT/CP/tree/master/0125-valid-palindrome) |
 | [0520-detect-capital](https://github.com/milkesaT/CP/tree/master/0520-detect-capital) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/milkesaT/CP/tree/master/1832-check-if-the-sentence-is-pangram) |
