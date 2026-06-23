@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/milkesaT/CP/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/milkesaT/CP/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/milkesaT/CP/tree/master/2574-left-and-right-sum-differences) |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/milkesaT/CP/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/milkesaT/CP/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/milkesaT/CP/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/milkesaT/CP/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2196-create-binary-tree-from-descriptions](https://github.com/milkesaT/CP/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/milkesaT/CP/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2540-minimum-common-value](https://github.com/milkesaT/CP/tree/master/2540-minimum-common-value) |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/milkesaT/CP/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/milkesaT/CP/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/milkesaT/CP/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/milkesaT/CP/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/milkesaT/CP/tree/master/0219-contains-duplicate-ii) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/milkesaT/CP/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/milkesaT/CP/tree/master/2799-count-complete-subarrays-in-an-array) |
 ## Linked List
 |  |
 | ------- |
