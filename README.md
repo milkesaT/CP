@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/milkesaT/CP/tree/master/0189-rotate-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/milkesaT/CP/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [2396-strictly-palindromic-number](https://github.com/milkesaT/CP/tree/master/2396-strictly-palindromic-number) |
+| [2769-find-the-maximum-achievable-number](https://github.com/milkesaT/CP/tree/master/2769-find-the-maximum-achievable-number) |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/milkesaT/CP/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/milkesaT/CP/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/milkesaT/CP/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
