@@ -228,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/milkesaT/CP/tree/master/0338-counting-bits) |
 | [0832-flipping-an-image](https://github.com/milkesaT/CP/tree/master/0832-flipping-an-image) |
 ## Matrix
 |  |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/milkesaT/CP/tree/master/0300-longest-increasing-subsequence) |
+| [0338-counting-bits](https://github.com/milkesaT/CP/tree/master/0338-counting-bits) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/milkesaT/CP/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/milkesaT/CP/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Enumeration
