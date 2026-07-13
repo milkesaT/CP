@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2785-sort-vowels-in-a-string](https://github.com/milkesaT/CP/tree/master/2785-sort-vowels-in-a-string) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/milkesaT/CP/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/milkesaT/CP/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/milkesaT/CP/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/milkesaT/CP/tree/master/3612-process-string-with-special-operations-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/milkesaT/CP/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3838-weighted-word-mapping](https://github.com/milkesaT/CP/tree/master/3838-weighted-word-mapping) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/milkesaT/CP/tree/master/0219-contains-duplicate-ii) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/milkesaT/CP/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/milkesaT/CP/tree/master/2799-count-complete-subarrays-in-an-array) |
+| [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/milkesaT/CP/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 ## Linked List
 |  |
 | ------- |
