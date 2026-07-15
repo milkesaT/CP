@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/milkesaT/CP/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/milkesaT/CP/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/milkesaT/CP/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/milkesaT/CP/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/milkesaT/CP/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/milkesaT/CP/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/milkesaT/CP/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -295,4 +296,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/milkesaT/CP/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/milkesaT/CP/tree/master/3739-count-subarrays-with-majority-element-ii) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/milkesaT/CP/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
