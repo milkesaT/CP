@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/milkesaT/CP/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/milkesaT/CP/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1929-concatenation-of-array](https://github.com/milkesaT/CP/tree/master/1929-concatenation-of-array) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/milkesaT/CP/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2126-destroying-asteroids](https://github.com/milkesaT/CP/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/milkesaT/CP/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/milkesaT/CP/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1678-goal-parser-interpretation](https://github.com/milkesaT/CP/tree/master/1678-goal-parser-interpretation) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/milkesaT/CP/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/milkesaT/CP/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/milkesaT/CP/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2381-shifting-letters-ii](https://github.com/milkesaT/CP/tree/master/2381-shifting-letters-ii) |
 | [2390-removing-stars-from-a-string](https://github.com/milkesaT/CP/tree/master/2390-removing-stars-from-a-string) |
 | [2785-sort-vowels-in-a-string](https://github.com/milkesaT/CP/tree/master/2785-sort-vowels-in-a-string) |
