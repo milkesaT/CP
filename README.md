@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/milkesaT/CP/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/milkesaT/CP/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/milkesaT/CP/tree/master/1480-running-sum-of-1d-array) |
+| [1572-matrix-diagonal-sum](https://github.com/milkesaT/CP/tree/master/1572-matrix-diagonal-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/milkesaT/CP/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/milkesaT/CP/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1732-find-the-highest-altitude](https://github.com/milkesaT/CP/tree/master/1732-find-the-highest-altitude) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/milkesaT/CP/tree/master/0832-flipping-an-image) |
+| [1572-matrix-diagonal-sum](https://github.com/milkesaT/CP/tree/master/1572-matrix-diagonal-sum) |
 ## Binary Search
 |  |
 | ------- |
