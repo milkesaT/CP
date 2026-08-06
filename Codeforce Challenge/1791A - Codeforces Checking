@@ -1,0 +1,8 @@
+t=int(input())
+for i in range(t):
+     s=input()
+     l=["c","o","d","e","f","o","r","c","e","s"]
+     if s in l:
+          print("YES")
+     else:
+          print("NO")
