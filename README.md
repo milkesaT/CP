@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3737-count-subarrays-with-majority-element-i](https://github.com/milkesaT/CP/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/milkesaT/CP/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3838-weighted-word-mapping](https://github.com/milkesaT/CP/tree/master/3838-weighted-word-mapping) |
+| [3895-count-digit-appearances](https://github.com/milkesaT/CP/tree/master/3895-count-digit-appearances) |
 | [3925-concatenate-array-with-reverse](https://github.com/milkesaT/CP/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
 |  |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/milkesaT/CP/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/milkesaT/CP/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/milkesaT/CP/tree/master/3783-mirror-distance-of-an-integer) |
+| [3895-count-digit-appearances](https://github.com/milkesaT/CP/tree/master/3895-count-digit-appearances) |
 ## Prefix Sum
 |  |
 | ------- |
