@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/milkesaT/CP/tree/master/0303-range-sum-query-immutable) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/milkesaT/CP/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0724-find-pivot-index](https://github.com/milkesaT/CP/tree/master/0724-find-pivot-index) |
+| [0766-toeplitz-matrix](https://github.com/milkesaT/CP/tree/master/0766-toeplitz-matrix) |
 | [0832-flipping-an-image](https://github.com/milkesaT/CP/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/milkesaT/CP/tree/master/0867-transpose-matrix) |
 | [0881-boats-to-save-people](https://github.com/milkesaT/CP/tree/master/0881-boats-to-save-people) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0766-toeplitz-matrix](https://github.com/milkesaT/CP/tree/master/0766-toeplitz-matrix) |
 | [0832-flipping-an-image](https://github.com/milkesaT/CP/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/milkesaT/CP/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/milkesaT/CP/tree/master/1572-matrix-diagonal-sum) |
