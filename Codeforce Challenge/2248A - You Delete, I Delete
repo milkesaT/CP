@@ -1,0 +1,6 @@
+t=int(input())
+for i in range(t):
+     s=input()
+     s = s.replace("0", "",1)
+     s = s.replace("1", "",1)
+     print(s)
