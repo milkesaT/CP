@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/milkesaT/CP/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/milkesaT/CP/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/milkesaT/CP/tree/master/1480-running-sum-of-1d-array) |
+| [1512-number-of-good-pairs](https://github.com/milkesaT/CP/tree/master/1512-number-of-good-pairs) |
 | [1572-matrix-diagonal-sum](https://github.com/milkesaT/CP/tree/master/1572-matrix-diagonal-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/milkesaT/CP/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/milkesaT/CP/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/milkesaT/CP/tree/master/0771-jewels-and-stones) |
 | [1189-maximum-number-of-balloons](https://github.com/milkesaT/CP/tree/master/1189-maximum-number-of-balloons) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/milkesaT/CP/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1512-number-of-good-pairs](https://github.com/milkesaT/CP/tree/master/1512-number-of-good-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/milkesaT/CP/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/milkesaT/CP/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/milkesaT/CP/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/milkesaT/CP/tree/master/1189-maximum-number-of-balloons) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/milkesaT/CP/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/milkesaT/CP/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1512-number-of-good-pairs](https://github.com/milkesaT/CP/tree/master/1512-number-of-good-pairs) |
 | [1833-maximum-ice-cream-bars](https://github.com/milkesaT/CP/tree/master/1833-maximum-ice-cream-bars) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/milkesaT/CP/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3467-transform-array-by-parity](https://github.com/milkesaT/CP/tree/master/3467-transform-array-by-parity) |
@@ -157,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/milkesaT/CP/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/milkesaT/CP/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/milkesaT/CP/tree/master/0189-rotate-array) |
+| [1512-number-of-good-pairs](https://github.com/milkesaT/CP/tree/master/1512-number-of-good-pairs) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/milkesaT/CP/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [2396-strictly-palindromic-number](https://github.com/milkesaT/CP/tree/master/2396-strictly-palindromic-number) |
 | [2469-convert-the-temperature](https://github.com/milkesaT/CP/tree/master/2469-convert-the-temperature) |
