@@ -1,0 +1,13 @@
+n = int(input())
+num = list(map(int, input().split()))
+avOff = 0
+unCrime = 0
+for i in num:
+    if i == -1:
+        if avOff > 0:
+            avOff -= 1
+        else:
+            unCrime += 1
+    else:
+        avOff += i
+print(unCrime)
