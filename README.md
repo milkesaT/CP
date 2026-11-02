@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/milkesaT/CP/tree/master/0013-roman-to-integer) |
 | [0172-factorial-trailing-zeroes](https://github.com/milkesaT/CP/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/milkesaT/CP/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/milkesaT/CP/tree/master/0231-power-of-two) |
 | [1512-number-of-good-pairs](https://github.com/milkesaT/CP/tree/master/1512-number-of-good-pairs) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/milkesaT/CP/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/milkesaT/CP/tree/master/1812-determine-color-of-a-chessboard-square) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/milkesaT/CP/tree/master/0203-remove-linked-list-elements) |
+| [0231-power-of-two](https://github.com/milkesaT/CP/tree/master/0231-power-of-two) |
 ## Stack
 |  |
 | ------- |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/milkesaT/CP/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/milkesaT/CP/tree/master/0338-counting-bits) |
 | [0832-flipping-an-image](https://github.com/milkesaT/CP/tree/master/0832-flipping-an-image) |
 ## Matrix
