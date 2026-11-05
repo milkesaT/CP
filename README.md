@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/milkesaT/CP/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/milkesaT/CP/tree/master/0303-range-sum-query-immutable) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/milkesaT/CP/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0486-predict-the-winner](https://github.com/milkesaT/CP/tree/master/0486-predict-the-winner) |
 | [0724-find-pivot-index](https://github.com/milkesaT/CP/tree/master/0724-find-pivot-index) |
 | [0766-toeplitz-matrix](https://github.com/milkesaT/CP/tree/master/0766-toeplitz-matrix) |
 | [0832-flipping-an-image](https://github.com/milkesaT/CP/tree/master/0832-flipping-an-image) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/milkesaT/CP/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/milkesaT/CP/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/milkesaT/CP/tree/master/0326-power-of-three) |
+| [0486-predict-the-winner](https://github.com/milkesaT/CP/tree/master/0486-predict-the-winner) |
 | [1512-number-of-good-pairs](https://github.com/milkesaT/CP/tree/master/1512-number-of-good-pairs) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/milkesaT/CP/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/milkesaT/CP/tree/master/1812-determine-color-of-a-chessboard-square) |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/milkesaT/CP/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/milkesaT/CP/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/milkesaT/CP/tree/master/0326-power-of-three) |
+| [0486-predict-the-winner](https://github.com/milkesaT/CP/tree/master/0486-predict-the-winner) |
 ## Stack
 |  |
 | ------- |
@@ -293,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/milkesaT/CP/tree/master/0300-longest-increasing-subsequence) |
 | [0338-counting-bits](https://github.com/milkesaT/CP/tree/master/0338-counting-bits) |
+| [0486-predict-the-winner](https://github.com/milkesaT/CP/tree/master/0486-predict-the-winner) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/milkesaT/CP/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/milkesaT/CP/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Enumeration
@@ -343,4 +347,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/milkesaT/CP/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Minimax
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/milkesaT/CP/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/milkesaT/CP/tree/master/0486-predict-the-winner) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/milkesaT/CP/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
