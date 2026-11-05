@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/milkesaT/CP/tree/master/1512-number-of-good-pairs) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/milkesaT/CP/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/milkesaT/CP/tree/master/1812-determine-color-of-a-chessboard-square) |
+| [1922-count-good-numbers](https://github.com/milkesaT/CP/tree/master/1922-count-good-numbers) |
 | [2396-strictly-palindromic-number](https://github.com/milkesaT/CP/tree/master/2396-strictly-palindromic-number) |
 | [2469-convert-the-temperature](https://github.com/milkesaT/CP/tree/master/2469-convert-the-temperature) |
 | [2769-find-the-maximum-achievable-number](https://github.com/milkesaT/CP/tree/master/2769-find-the-maximum-achievable-number) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/milkesaT/CP/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/milkesaT/CP/tree/master/0326-power-of-three) |
 | [0486-predict-the-winner](https://github.com/milkesaT/CP/tree/master/0486-predict-the-winner) |
+| [1922-count-good-numbers](https://github.com/milkesaT/CP/tree/master/1922-count-good-numbers) |
 ## Stack
 |  |
 | ------- |
