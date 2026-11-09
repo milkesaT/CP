@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/milkesaT/CP/tree/master/0011-container-with-most-water) |
 | [0049-group-anagrams](https://github.com/milkesaT/CP/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/milkesaT/CP/tree/master/0088-merge-sorted-array) |
+| [0119-pascals-triangle-ii](https://github.com/milkesaT/CP/tree/master/0119-pascals-triangle-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/milkesaT/CP/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/milkesaT/CP/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/milkesaT/CP/tree/master/0215-kth-largest-element-in-an-array) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0119-pascals-triangle-ii](https://github.com/milkesaT/CP/tree/master/0119-pascals-triangle-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/milkesaT/CP/tree/master/0300-longest-increasing-subsequence) |
 | [0338-counting-bits](https://github.com/milkesaT/CP/tree/master/0338-counting-bits) |
 | [0486-predict-the-winner](https://github.com/milkesaT/CP/tree/master/0486-predict-the-winner) |
