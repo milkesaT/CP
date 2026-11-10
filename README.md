@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/milkesaT/CP/tree/master/0011-container-with-most-water) |
 | [0049-group-anagrams](https://github.com/milkesaT/CP/tree/master/0049-group-anagrams) |
+| [0078-subsets](https://github.com/milkesaT/CP/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/milkesaT/CP/tree/master/0088-merge-sorted-array) |
 | [0119-pascals-triangle-ii](https://github.com/milkesaT/CP/tree/master/0119-pascals-triangle-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/milkesaT/CP/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/milkesaT/CP/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/milkesaT/CP/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/milkesaT/CP/tree/master/0338-counting-bits) |
 | [0832-flipping-an-image](https://github.com/milkesaT/CP/tree/master/0832-flipping-an-image) |
@@ -363,4 +365,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/milkesaT/CP/tree/master/0486-predict-the-winner) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/milkesaT/CP/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
